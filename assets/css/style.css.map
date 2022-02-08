@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AKAA,AAAA,WAAW,CAAA;EACP,KAAK,EAAE,KAAK;EACZ,eAAe,EAAE,IAAI;CACxB",
+    "sources": [
+        "style.scss",
+        "partials/variable/_variable.scss",
+        "partials/extend/_extend.scss",
+        "partials/mixins/_mixins.scss",
+        "partials/pages/_index.scss",
+        "partials/pages/_basket.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
